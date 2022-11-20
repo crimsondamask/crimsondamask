@@ -1,6 +1,8 @@
 <h1 align="center">Henlo 👋, I'm Kader</h1>
 <h3 align="center">I am an engineer and a self-taught developer.</h3>
 
+<a rel="me" href="https://hachyderm.io/@prussianvelvet">Mastodon</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crimsondamask&label=Profile%20views&color=0e75b6&style=flat" alt="crimsondamask" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crimsondamask" alt="crimsondamask" /></a> </p>
